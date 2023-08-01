@@ -1,0 +1,41 @@
+.calculator
+{
+font-family:'Time New Roman';
+font-size:50;
+color:black;
+
+
+}
+
+.container
+{
+text-align:center;
+
+
+}
+
+table
+{
+margin:auto;
+border:5px solid green;
+background-color:gray;
+}
+
+
+input
+{
+font-size:32px;
+border:5px solid green;
+width:630px;
+height:80px;
+}
+
+button
+{
+font-size:35px;
+background-color:chartreuse;
+width:150px;
+height:80px;
+border-radius:20px;
+border:5px solid green;
+}

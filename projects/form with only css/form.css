@@ -1,0 +1,35 @@
+.iqra{
+
+font-family: 'Times New Roman';
+    font-size: 30px;
+    text-align: center;
+    border:5px solid white;
+    width: 40%;
+    color:white;
+background-color:rgba;
+padding:50px;
+margin:auto;
+
+
+}
+#abbasi
+{
+font-size: 30px;
+    text-align: center;
+    border:4px dotted;
+    width: 50%;
+    color:brown;
+    background:linear-gradient(135deg,#71b7e6,#9b59b6);
+
+}
+
+#yahoo
+{
+background-image: url('background1.JPG');
+background-size:cover;
+background-repeat:no-repeat;
+width:100%;
+
+
+}
+

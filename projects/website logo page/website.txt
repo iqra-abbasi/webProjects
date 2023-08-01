@@ -1,0 +1,199 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="new.css">
+
+</head>
+
+
+<body style="background-color:gray;">
+
+<div class="img">
+
+<h1 id="logo"><marquee>
+website
+</marquee></h1>
+
+
+
+
+<p class="website"><b>LAUNCH. YOUR. WEBSITE.</b></p>
+
+<p class="theme"><b>Simple & Elegant One-Page WordPress Theme</b></p>
+<p class="italian"><i><b>An elegant, easy to use, one-page WordPress theme for professionals and businesses.</p>
+<p class="italian">Perfect to promote your projects products or services.</i></b></p>
+
+
+
+
+
+<button class="learnmore">Learn More</button>
+
+
+<a href="form.html"><button class="signup">signup</button></a>
+
+<button class="download">Download Now</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<br>
+<br>
+
+
+
+
+<p class="features"><b>Main Features</b></p>
+
+<p class="main">There are many variations of passages of Lorem Ipsum available but the majority </p>
+<p class="main">have suffered alteration in some form.</p>
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="align">
+
+<p class="test">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Work Timer</b><br>
+Do more meaningful work by<br>
+dividing your time into intervals<br>
+and by taking regular breaks to<br>
+get more work or studying done.
+</p>
+
+</div>
+
+<div class="align">
+
+<p class="text">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>Website Blocker</b><br>
+Block Website that distract and make<br>
+ you unproductive.Adding sites to<br>
+ the block list will block sites<br>
+when the work timer is on.
+</p>
+</div>
+
+
+<div  class="align">
+    
+<p class="bold">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>Gamification</b><br>
+App introduces a point-based<br>
+reward system to make work a <br>
+bit more fun and also remind <br>
+you every action has a price.
+</p>
+</div>
+
+
+
+
+
+<h2 class="about">About Us</h2>
+
+
+
+<p class="contact">
+    The main ‘thrust' is to focus on educating attendees on how to best protect highly vulnerable <br>
+    business applications with interactive panel discussions <br>
+    and roundtables led by subject matter experts.
+</p>
+<br>
+
+
+
+<p>
+<center>
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,<br>
+ by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage<br>
+ of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.<br>
+ All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true<br>
+ generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, <br>
+to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour,<br>
+ or non-characteristic words etc.
+</center>
+</p>
+
+
+
+
+
+
+
+
+<h2 id="team">Team Members</h2>
+
+
+
+
+<p class="member">
+    It takes 2-3 weeks to get your first blog post ready. <br>
+    That includes the in-depth research & creation of<br>
+    your monthly content marketing strategy that<br>
+    we do before writing your first blog post, Ipsum available .
+</p>
+
+
+
+
+
+<div class="image">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+
+<img src="https://www.akbizmag.com/wp-content/uploads/2021/03/Woman-Business.jpg" width=150 height=150>
+
+</div>
+
+
+
+<div class="image">
+<img src="https://image1.masterfile.com/getImage/6118-07122728em-office-interior-a-man-seated-at-a-table-using-a-laptop-computer.jpg" width=150 height=150>
+</div>
+
+
+<div class="image">
+<img src="https://as1.ftcdn.net/v2/jpg/02/48/16/88/1000_F_248168854_TK8TF3dZ2xe9h9v8F15AUjnwTYc3Z17s.jpg" width=150 height=150>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>

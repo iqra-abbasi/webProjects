@@ -1,0 +1,47 @@
+<html>
+
+<center>
+<div style="font-size:25px; font-family:'Broadway';">
+<h1><b>Beauty websites</b></h1>
+</div>
+</center>
+
+<body>
+
+<center>
+<div style="font-size:20px;">
+<b>
+<p>Make your business shine online with a custom beauty website designed </p>
+<p>just for you by a professional designer.Need ideas? We have collected </p>
+<p>some amazing examples of beauty websites from our global community</p>
+<p> of designers.Get inspired and start planning the perfect beauty web</p>
+<p>design today.</p>
+<br>
+<br>
+</b>
+</center>
+</div>
+
+<div>
+
+
+<center>
+<img src="https://assets.thehansindia.com/h-upload/2021/11/06/1120572-makeup.webp" width=800 height=300>
+</center>
+
+</div>
+
+<p style="padding-left:1000px; font-size:18px; font-family:'Time New Roman';"><b><i>by logicaninfo</b></i></p>
+
+
+
+
+<center>
+<a href="products.html"><button  style="font-size:25px; background-color:black;color:white; border-radius:10px;" width=100 height=100>
+ See Some More Beauty Products</button></a>
+</center>
+<br>
+<br>
+
+</body>
+</html>

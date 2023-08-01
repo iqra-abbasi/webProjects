@@ -1,0 +1,178 @@
+<html>
+
+
+<body style="background-color:pink;">
+
+<h1 style="text-align:center; font-family:'Broadway';">
+Web page design brief
+</h1>
+<br>
+<br>
+
+<p>Fill out the brief so the designers know</p>
+<p>what you are looking for</p>
+
+<hr>
+<br>
+
+<form>
+
+<label for="name"><b>Enter your email here</b></label>
+<br>
+<br>
+<input type="text" name="name"
+placeholder="iqra@example.com">
+<br>
+<br>
+
+<p>We will hold your data according to our Privacy</p>
+<p> Policy.</p>
+<hr>
+<br>
+
+
+
+<h2>Language</h2>
+<br>
+
+<label for="name"><b>What language will you write your brief in?</b></label>
+<br>
+<br>
+<select>
+<option>English</option>
+
+<option>Spanish(Espanol)</option>
+
+</select>
+<br>
+<br>
+<p>Tip:Submit a brief in English for the highest</p>
+<p>participation</p>
+<br>
+<br>
+<hr>
+
+
+<h2>Background information</h2>
+<br>
+
+<label for="name"><b>What is your organization or website name?</b></label>
+<br>
+<br>
+<input type="text" name="name">
+<br>
+
+<p>E.g. Acme</p>
+<br>
+<br>
+
+<label for="name"><b>Briefly describe what you do and your target audience.</b></label>
+<br>
+<br>
+<input type="text" name="name">
+<br>
+<br>
+
+<p>E.g. We sell organic herbs and spices to</p>
+<p>professional chefs around the world.</p>
+<br>
+<br>
+<label for="name"><b>Select your industry</b></label>
+<br>
+<br>
+<select>
+<option>Accounting & Financial</option>
+
+<option>Agriculture</option>
+
+<option>Architectural</option>
+
+<option>Computer</option>
+
+<option>Education</option>
+
+<option>Fashion</option>
+</select>
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<label for="name"><b>If you have a existing website.please list it here.</b></label>
+<br>
+<br>
+<input type="text" name="name">
+<br>
+<br>
+
+<p>E.g. www.acme.com
+<br>
+<br>
+<hr>
+
+<h2>Visual style</h2>
+
+<p><b>What ideas do you have for the style/theme</p>
+<p>of your website design?</p></b>
+
+<input type="text"name="name">
+<br>
+<br>
+
+<p>Tip:Providing any thoughts on colors,illustration</p>
+<p>or photograph will help guide designers.</p>
+<br>
+<br>
+
+
+<h2><b>What websites can designers draw</p>
+<p>inspiration from</p></b></h2>
+<br>
+<br>
+<br>
+
+<label for="name"><b>Web address.</b></label>
+<br>
+<br>
+<input type="text" name="name">
+<br>
+<br>
+<p>E.g.www.honest.com</p>
+<br>
+<br>
+
+
+<label for="name"><b>What do you like about this site?.</b></label>
+<br>
+<br>
+<input type="text" name="name">
+<br>
+
+<p>E.g I like homepage of the website,the colors</p>
+<p>and imagery used as well as the menu and buttons</p>
+<br>
+<br>
+<hr>
+
+
+
+<center>
+<button style="background-color:black; color:white; font-size:30px; border-radius:5px; margin:10px; padding:10px; border:1px; width:150px; height:50px;">
+continue</button></center>
+</form>
+
+
+<center>
+<a href="jewellery website.html" ><button style="font-size:25px;background-color:black; color:white; border-radius:10px;" width=100 height=100>
+Back To Home</button>
+</center></a>
+
+
+
+
+</body>
+</html>

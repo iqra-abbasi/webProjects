@@ -1,0 +1,148 @@
+<html>
+
+<body>
+
+<h1><i><marquee>Order Now<h1></i></marquee>
+<br>
+
+<center>
+
+
+
+<img src="https://thewelldressedlife.com/wp-content/uploads/2019/09/BeautyBuys-1200x900.jpg"width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=5000</b></p>
+<br>
+
+
+<a href="form.php"><button style="font-size:30px;background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+<br>
+<br>
+<br>
+
+
+<img src="https://www.gannett-cdn.com/presto/2020/08/25/PMCA/1bc68335-a3a2-47e3-901e-0bf6536c3cd5-Lily_Lolos_Lip_Gloss_Set_offers_up_two_colors_perfect_for_day_or_night.jpg
+"width=800 height=300>
+
+<p style="padding-left:700px;"><b>Price=3000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px;background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+<img src="https://miro.medium.com/max/1220/1*n8_CrowIUE_XkEcx6BbiJg.jpeg" width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=3000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px;background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://i.ndtvimg.com/i/2017-11/toxic-ingredients-in-beauty-products_650x400_81511942715.jpg"width=800 height=300>
+
+<p style="padding-left:700px;"><b>Price=2000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://cdn.sanity.io/images/92ui5egz/production/bba14bbd0da234e7c3eb8feccdb9f370fdcba51c-3840x2160.png?w=720&h=405&auto=format"
+width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=2000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e9gB9R5B_h1YoVFV95MJKpz2vdLYTBJ46A&usqp=CAU" width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=3000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px;background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+<img src="https://media.allure.com/photos/5c12aeb2c13b245d385e8c51/1:1/w_800,h_800,c_limit/alpyn%20beauty.jpg"width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=3000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/monthlybeautyroundup-1639522180.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*"width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=5000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://media.allure.com/photos/5bfc01cea921cb2f21747a09/1:1/w_2000,h_2000,c_limit/MUFEUHDConcealer.jpg"width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=1000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+<br>
+
+
+<img src="https://stylecaster.com/wp-content/uploads/2022/02/amazon-premium-beauty-sale.jpg"width=800 height=300 >
+
+<p style="padding-left:700px;"><b>Price=2000</b></p>
+<br>
+
+<a href="form.php"><button style="font-size:30px; background-color:black; color:white; border-radius:10px;" width=100 height=100><b>Order Now</b></button></a>
+
+
+<br>
+<br>
+
+
+<a href="jewellery website.html"> <button style="background-color:black; color:white; font-size:20px;border-radius:5px; margin:10px; padding:10px; border:1px; width:500px; height:50px;">
+go back to home</button></a>
+</body>
+
+</center>
+
+
+</html>

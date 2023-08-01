@@ -1,0 +1,81 @@
+<html>
+<body style=" background-color:gray;">
+
+<style>
+
+form
+{
+
+color:black;
+font-family:'Time New Roman';
+font-size:30px;
+}
+
+button
+{
+
+background-color:blue;
+border-radius:5px;
+margin:10px;
+padding:10px;
+text-align:center;
+border: 1px;
+width:100px;
+height:50px;
+
+}
+
+
+input
+
+{
+height:50px;
+width:200px;
+border:3px solid black;
+}
+
+</style>
+
+<form>
+
+
+<center>
+<input type="name" name="name"
+placeholder="enter your name here"required>
+<br>
+<br>
+
+
+<input type="name" name="name"
+placeholder="enter your email here"required>
+<br>
+<br>
+
+
+<input type="name" name="name"
+placeholder="enter five digit password here"required>
+<br>
+<br>
+<br>
+<br>
+
+<button id="click" onclick="sign()" class="signup">Sign Up</button> 
+
+</center>
+</form>
+
+
+<center>
+<a href="website.html" style="color:blue;"> Click Here To BackToHomePage</a>
+</center>
+
+<script>
+function sign()
+{
+
+document.getElementById('click').value;
+alert("form is successfully submitted");
+}
+</script>
+</body>
+</html>

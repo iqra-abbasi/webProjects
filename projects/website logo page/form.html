@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<style>
+.loginBox{
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:auto;
+    height: 50%;
+    width:50%;
+    border: 3px solid black;
+}
+form
+{
+color:black;
+font-family:'Time New Roman';
+font-size:30px;
+}
+
+button
+{
+
+background-color:blue;
+border-radius:5px;
+margin:10px;
+padding:10px;
+text-align:center;
+border: 1px;
+width:100px;
+height:50px;
+
+}
+input{
+    background-color: azure;
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    border:3px solid black;
+    border-radius:10px;
+}
+</style>
+</head>
+<body >
+    <form class="loginBox">
+    <center>
+    <input  type="name" name="name" placeholder="enter your name here"required>
+    <br>
+    <input type="name" name="name"
+    placeholder="enter your email here"required>
+    <br>
+    <input type="name" name="name" placeholder="enter five digit password here"required><br>
+    <br>
+    <button id="click" onclick="sign()" class="signup">Sign Up</button> 
+    <br><a href="website.html" style="color:blue;"> Click Here To BackToHomePage</a>
+    </center>
+</form>
+
+
+<script>
+function sign()
+{
+
+document.getElementById('click').value;
+alert("form is successfully submitted");
+}
+</script>
+</body>
+</html>
